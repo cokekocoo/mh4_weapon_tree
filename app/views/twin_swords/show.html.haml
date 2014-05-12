@@ -8,10 +8,7 @@
           切れ味
         .body
           .progress
-            .progress-bar.progress-bar-danger{ style: "width: #{@twin_sword.red_length}%" }
-            .progress-bar.progress-bar-warning{ style: "width: 10%" }
-            .progress-bar.progress-bar-success{ style: "width: 10%" }
-            .progress-bar.progress-bar-info{ style: "width: 10%" }
+            = render partial: "sharpness_guage/sword", object: @twin_sword
     .panel-body
       - if @twin_sword.derived_from
         派生元

@@ -22,6 +22,14 @@ class YAMLTwinSword
       @options["red_length"]
     end
 
+    def sharpness_length color
+      @options["#{color}_length"]
+    end
+
+    def sharpness_percentage color
+      sharpness_length(color).to_f / 72.to_f * 100
+    end
+
     def derived_from
       @weapons[@options["from"]]
     end
