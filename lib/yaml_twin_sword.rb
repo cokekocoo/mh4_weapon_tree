@@ -21,6 +21,13 @@ class YAMLTwinSword
     def derived_from
       @weapons[@options["from"]]
     end
+
+    def to_hash
+      {
+        name: name,
+        from: derived_from
+      }
+    end
   end
 
   @@weapons = YAML.load_file(Rails.root + "lib/yaml/twin_swords.yml").map do |key, value|
