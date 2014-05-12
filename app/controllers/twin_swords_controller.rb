@@ -1,0 +1,2 @@
+class TwinSwordsController < ApplicationController
+end
