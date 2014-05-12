@@ -6,10 +6,10 @@ class TwinSwordsController < ApplicationController
   end
 
   def show
-    twin_sword = @twin_swords[params[:id]]
+    @twin_sword = @twin_swords[params[:id]]
 
     respond_to do |format|
-      if twin_sword
+      if @twin_sword
         format.html
       else
         format.html{ head :bad_request }
