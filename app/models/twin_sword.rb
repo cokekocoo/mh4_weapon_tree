@@ -4,6 +4,7 @@ class TwinSword < ActiveRecord::Base
   validates :power,         presence: true, numericality: { greater_than: 0,             less_than: 500 }
   validates :red_length,    presence: true, numericality: { greater_than_or_equal_to: 0 }
   validates :orange_length, presence: true, numericality: { greater_than_or_equal_to: 0 }
+  validates :yello_length,  presence: true, numericality: { greater_than_or_equal_to: 0 }
   validates :green_length,  presence: true, numericality: { greater_than_or_equal_to: 0 }
   validates :blue_length,   presence: true, numericality: { greater_than_or_equal_to: 0 }
   validates :white_length,  presence: true, numericality: { greater_than_or_equal_to: 0 }
@@ -16,6 +17,7 @@ class TwinSword < ActiveRecord::Base
     sword.power         ||= 0
     sword.red_length    ||= 0
     sword.orange_length ||= 0
+    sword.yello_length  ||= 0
     sword.green_length  ||= 0
     sword.blue_length   ||= 0
     sword.white_length  ||= 0
