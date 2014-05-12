@@ -22,6 +22,14 @@ class YAMLTwinSword
       @weapons[@options["from"]]
     end
 
+    def ancestors
+      if derived_from
+        [self] + derived_from.ancestors
+      else
+        []
+      end
+    end
+
     def to_hash
       {
         name: name,
