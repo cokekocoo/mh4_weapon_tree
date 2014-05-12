@@ -18,6 +18,10 @@ class YAMLTwinSword
       @weapons = ::YAMLTwinSword.new
     end
 
+    def red_length
+      @options["red_length"]
+    end
+
     def derived_from
       @weapons[@options["from"]]
     end
