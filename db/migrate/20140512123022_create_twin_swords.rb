@@ -6,6 +6,7 @@ class CreateTwinSwords < ActiveRecord::Migration
       t.integer :power
       t.integer :red_length
       t.integer :orange_length
+      t.integer :yello_length
       t.integer :green_length
       t.integer :blue_length
       t.integer :white_length
