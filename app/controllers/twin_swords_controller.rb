@@ -8,10 +8,12 @@ class TwinSwordsController < ApplicationController
   def show
     twin_sword = @twin_swords[params[:id]]
 
-    if twin_sword
-      render json: twin_sword
-    else
-      head :bad_request
+    respond_to do |format|
+      if twin_sword
+        format.html
+      else
+        format.html{ head :bad_request }
+      end
     end
   end
 
