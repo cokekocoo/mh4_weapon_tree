@@ -34,6 +34,10 @@ class YAMLTwinSword
       @weapons.find{ |weapon| weapon.name == @options["from"] }
     end
 
+    def deriving_to
+      @weapons.select{ |weapon| weapon.derived_from == self }
+    end
+
     def ancestors
       if derived_from
         [self] + derived_from.ancestors
