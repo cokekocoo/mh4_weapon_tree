@@ -3,8 +3,14 @@ module MH4Weapons
     Rails.root + "lib/yaml/"
   end
 
+  def self.map_yaml filename
+    YAML.load_file(self.yaml_basepath + filename).map do |key, value|
+      yield key, value
+    end
+  end
+
   def self.twin_swords
-    @@twin_swords ||= YAML.load_file("#{self.yaml_basepath}twin_swords.yml").map do |key, value|
+    @@twin_swords ||= self.map_yaml "twin_swords.yml" do |key, value|
       TwinSword.new key, value
     end
   end
