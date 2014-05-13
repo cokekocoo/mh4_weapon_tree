@@ -1,15 +1,10 @@
-.col-xs-12
-  .panel.panel-default
-    .panel-heading
-      = @twin_sword.name
-    .panel-body
-      #sharpness
-        .heading
-          切れ味
-        .body
-          .progress
-            = render partial: "sharpness_guage/sword", object: @twin_sword
-    .panel-body
-      - if @twin_sword.derived_from
-        派生元
-        = link_to @twin_sword.derived_from.name, twin_sword_path(@twin_sword.derived_from.name)
+- @twin_sword.ancestors.reverse.each do |twin_sword|
+  - unless @twin_sword == twin_sword
+    .col-xs-12
+      = render partial: "twin_swords/twin_sword", object: twin_sword
+#current.col-xs-12
+  = render partial: "twin_swords/twin_sword", object: @twin_sword
+- @twin_sword.descendants.each do |twin_sword|
+  - unless @twin_sword == twin_sword
+    .col-xs-12
+      = render partial: "twin_swords/twin_sword", object: twin_sword
