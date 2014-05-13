@@ -31,7 +31,7 @@ class YAMLTwinSword
     end
 
     def derived_from
-      @weapons[@options["from"]]
+      @weapons.find{ |weapon| weapon.name == @options["from"] }
     end
 
     def ancestors
