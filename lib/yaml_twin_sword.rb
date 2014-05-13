@@ -42,7 +42,7 @@ class YAMLTwinSword
       if derived_from
         [self] + derived_from.ancestors
       else
-        []
+        [self]
       end
     end
 
