@@ -6,10 +6,6 @@ class MH4Weapons::TwinSword
     @options = value
   end
 
-  def red_length
-    @options["red_length"]
-  end
-
   def sharpness_length color
     @options["#{color}_length"]
   end
