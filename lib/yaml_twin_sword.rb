@@ -46,6 +46,14 @@ class YAMLTwinSword
       end
     end
 
+    def descendants
+      if deriving_to.any?
+        [self] + deriving_to.map(&:descendants).flatten
+      else
+        [self]
+      end
+    end
+
     def to_hash
       {
         name: name,
