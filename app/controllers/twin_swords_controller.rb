@@ -6,7 +6,7 @@ class TwinSwordsController < ApplicationController
   end
 
   def show
-    @twin_sword = @twin_swords[params[:id]]
+    @twin_sword = @twin_swords.find{ |sword| sword.name == params[:id] }
 
     respond_to do |format|
       if @twin_sword
@@ -20,6 +20,6 @@ class TwinSwordsController < ApplicationController
   private
 
   def set_twin_swords
-    @twin_swords = YAMLTwinSword.new
+    @twin_swords = MH4Weapons.twin_swords
   end
 end
