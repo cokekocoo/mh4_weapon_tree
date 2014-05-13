@@ -1,10 +1,10 @@
 class MH4Weapons::Base
   def derived_from
-    MH4Weapons.twin_swords.find{ |weapon| weapon.name == @options["from"] }
+    collection.find{ |weapon| weapon.name == @options["from"] }
   end
 
   def deriving_to
-    MH4Weapons.twin_swords.select{ |weapon| weapon.derived_from == self }
+    collection.select{ |weapon| weapon.derived_from == self }
   end
 
   def ancestors

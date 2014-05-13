@@ -13,4 +13,10 @@ class MH4Weapons::TwinSword < MH4Weapons::Base
   def sharpness_percentage color
     sharpness_length(color).to_f / 72.to_f * 100
   end
+
+  private
+
+  def collection
+    MH4Weapons.twin_swords
+  end
 end
