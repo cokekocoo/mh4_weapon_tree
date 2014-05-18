@@ -6,6 +6,14 @@ class MH4Weapons::TwinSword < MH4Weapons::Base
     @options = value
   end
 
+  def power
+    @options["power"]
+  end
+
+  def slots_count
+    @options["slots_count"]
+  end
+
   def sharpness_length color
     @options["#{color}_length"]
   end
