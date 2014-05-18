@@ -1,10 +1,2 @@
-- @twin_sword.ancestors.reverse.each do |twin_sword|
-  - unless @twin_sword == twin_sword
-    .col-xs-12
-      = render partial: "twin_swords/twin_sword", object: twin_sword
 #current.col-xs-12
   = render partial: "twin_swords/twin_sword", object: @twin_sword
-- @twin_sword.descendants.each do |twin_sword|
-  - unless @twin_sword == twin_sword
-    .col-xs-12
-      = render partial: "twin_swords/twin_sword", object: twin_sword

@@ -2,7 +2,6 @@ class TwinSwordsController < ApplicationController
   before_action :set_twin_swords
 
   def index
-    render json: @twin_swords.map{ |sword| sword.to_hash }
   end
 
   def show

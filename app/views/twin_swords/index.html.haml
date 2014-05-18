@@ -1,0 +1,21 @@
+.btn-group
+  .btn.btn-default 火
+  .btn.btn-default 水
+  .btn.btn-default.active 氷
+  .btn.btn-default 雷
+  .btn.btn-default 龍
+
+.media-list
+  - @twin_swords.each do |twin_sword|
+    = link_to twin_sword_path(twin_sword.name), class: "media" do
+      .pull-left
+        = image_tag "twin_sword.png", size: "48x48"
+      .media-body
+        %h4.media-heading
+          = twin_sword.name
+        .labels
+          .label.label-default 攻撃力: #{twin_sword.power}
+          .label.label-default 火: #{twin_sword.power}
+          .label.label-default 麻痺: #{twin_sword.power}
+          .label.label-default 会心率: #{twin_sword.power}
+        = render partial: "sharpness_guage/sword", object: twin_sword

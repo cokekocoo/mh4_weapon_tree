@@ -9,12 +9,35 @@
         = link_to "nil", "#", class: "btn btn-default"
 
   .panel-body
+    %table.table
+      %tr
+        %th 攻撃力
+        %th 火
+        %th 雷
+        %th 会心率
+      %tr
+        %td 89
+        %td 89
+        %td 89
+        %td 89
+
     #sharpness
       .heading
         切れ味
       .body
         .progress
           = render partial: "sharpness_guage/sword", object: twin_sword
+  .panel-body
+    %h4 素材
+    .panel-group
+      - 4.times do
+        .panel.panel-default
+          .panel-heading
+            火竜の逆鱗
+            %span.badge 2
+          .panel-collapse.collapse.in
+            .panel-body
+              上位リオレウス剥ぎ取り 5%
   .panel-body
     .btn-group-vertical
       - if twin_sword.deriving_to.any?
