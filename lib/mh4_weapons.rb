@@ -14,4 +14,10 @@ module MH4Weapons
       TwinSword.new key, value
     end
   end
+
+  def self.materials
+    @@materials ||= self.map_yaml "materials.yml" do |key, value|
+      Material.new key, value
+    end
+  end
 end
