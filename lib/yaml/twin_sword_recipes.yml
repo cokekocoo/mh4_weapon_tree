@@ -4,3 +4,59 @@
   price: 1000
   materials:
     雷狼竜の碧玉: 2
+
+ボーンシックル改:
+  from: ボーンシックル
+  type: advance
+  price: 850
+  materials:
+    鳥竜種の牙: 5
+    なぞの骨: 1
+
+ツイストルクル:
+  from: ボーンシックル改
+  type: advance
+  price: 1400
+  materials:
+    徹甲虫の甲殻: 6
+    モンスターの体液: 4
+    水袋: 2
+    鉄鉱石: 5
+
+チェーンソー:
+  from: ツイストルクル
+  type: advance
+  price: 2150
+  materials:
+    マカライト鉱石: 6
+    電光中: 5
+    鬼蛙の大牙: 3
+
+王双刃ハタタカミ:
+  from: ツインチェーンソー
+  type: advance
+  price: 8900
+  materials:
+    雷狼竜の爪: 2
+    雷狼竜の帯電毛: 3
+    雷狼竜の甲殻: 3
+
+王牙双刃【土雷】:
+  from: 王双刃ハタタカミ
+  type: advance
+  price: 30000
+  materials:
+    雷狼竜の尖角: 3
+    雷狼竜の高電殻: 4
+    雷狼竜の尖爪: 2
+    雷狼竜の碧玉: 1
+
+獄双刃リュウソウ:
+  from: 王牙双刃【土雷】
+  type: advance
+  price: 55000
+  materials:
+    獄狼竜の尖角: 2
+    獄狼竜の龍毛: 4
+    獄狼竜の堅殻: 4
+    雷狼竜の尖爪: 3
