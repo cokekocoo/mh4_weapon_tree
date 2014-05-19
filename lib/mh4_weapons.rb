@@ -15,9 +15,19 @@ module MH4Weapons
     end
   end
 
+  def self.all
+    self.twin_swords
+  end
+
   def self.materials
     @@materials ||= self.map_yaml "materials.yml" do |key, value|
       Material.new key, value
+    end
+  end
+
+  def self.twin_sword_recipes
+    @@twin_sword_recipes ||= self.map_yaml "twin_sword_recipes.yml" do |key, value|
+      Recipe.new key
     end
   end
 end
