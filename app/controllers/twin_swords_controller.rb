@@ -19,6 +19,6 @@ class TwinSwordsController < ApplicationController
   private
 
   def set_twin_swords
-    @twin_swords = MH4Weapons.twin_swords
+    @twin_swords = MH4Weapons::TwinSword.all
   end
 end

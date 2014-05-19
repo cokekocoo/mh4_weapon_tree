@@ -1,7 +1,7 @@
 class MH4Weapons::Requirement
   def self.parse items
-    items.map do |item|
-      self.new item["name"], item["quantity"]
+    items.map do |key, value|
+      self.new key, value
     end
   end
 

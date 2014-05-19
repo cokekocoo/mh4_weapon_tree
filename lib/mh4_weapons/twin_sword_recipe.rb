@@ -3,9 +3,9 @@ class MH4Weapons::TwinSwordRecipe < MH4Weapons::Base
 
   attr_accessor :from, :to, :items
 
-  def initialize hash
-    @from  = MH4Weapons.all.find{ |w| w.name == hash["from"] }
-    @to    = MH4Weapons.all.find{ |w| w.name == hash["to"] }
+  def initialize key, value
+    @to    = MH4Weapons.all.find{ |w| w.name == key }
+    @from  = MH4Weapons.all.find{ |w| w.name == value["from"] }
     @items = Requirement.parse hash["materials"]
   end
 end

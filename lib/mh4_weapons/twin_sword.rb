@@ -25,11 +25,11 @@ class MH4Weapons::TwinSword < MH4Weapons::Weapon
   end
 
   def recipes_derived_from
-    MH4Weapons.twin_sword_recipes.find{ |r| r.to == self }
+    MH4Weapons::TwinSwordRecipe.all.find{ |r| r.to == self }
   end
 
   def recipes_deriving_to
-    MH4Weapons.twin_sword_recipes.select{ |r| r.from == self }
+    MH4Weapons::TwinSwordRecipe.all.select{ |r| r.from == self }
   end
 
   def derived_from

@@ -2,13 +2,6 @@
   .panel-heading
     = twin_sword.name
   .panel-body
-    .btn-group-vertical
-      - if twin_sword.derived_from
-        = link_to_twin_sword twin_sword.derived_from, class: "btn btn-default"
-      - else
-        = link_to "nil", "#", class: "btn btn-default"
-
-  .panel-body
     %table.table
       %tr
         %th 攻撃力
@@ -38,10 +31,3 @@
           .panel-collapse.collapse.in
             .panel-body
               上位リオレウス剥ぎ取り 5%
-  .panel-body
-    .btn-group-vertical
-      - if twin_sword.deriving_to.any?
-        - twin_sword.deriving_to.each do |weapon|
-          = link_to_twin_sword weapon, class: "btn btn-default"
-      - else
-        = link_to "nil", "#", class: "btn btn-default"

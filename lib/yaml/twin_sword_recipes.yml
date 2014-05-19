@@ -1,9 +1,6 @@
--
+ツインダガー改:
   from:  ツインダガー
-  to:    ツインダガー改
   type:  advance
   price: 1000
   materials:
-    -
-      name: 雷狼竜の碧玉
-      quantity: 2
+    雷狼竜の碧玉: 2
