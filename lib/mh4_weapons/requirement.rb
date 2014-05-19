@@ -5,8 +5,10 @@ class MH4Weapons::Requirement
     end
   end
 
+  attr_accessor :name, :quantity
+
   def initialize name, quantity
-    @name     = MH4Weapons.materials.find{ |m| m.name == name }
+    @name     = name #MH4Weapons::Material.all.find{ |m| m.name == name }
     @quantity = quantity
   end
 end
