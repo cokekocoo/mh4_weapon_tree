@@ -24,19 +24,15 @@ class MH4Weapons::TwinSword < MH4Weapons::Weapon
     sharpness_length(color).to_f / 72.to_f * 100
   end
 
-  def recipes_derived_from
-    MH4Weapons::TwinSwordRecipe.all.find{ |r| r.to == self }
-  end
-
-  def recipes_deriving_to
-    MH4Weapons::TwinSwordRecipe.all.select{ |r| r.from == self }
+  def deriving_to
+    TwinSwordRecipe.all.select do |recipe|
+      recipe.from == self
+    end.map(&:to)
   end
 
   def derived_from
-    recipes_derived_from ? recipes_derived_from.from : nil
-  end
-
-  def deriving_to
-    recipes_deriving_to.map(&:to)
+    TwinSwordRecipe.all.find do |recipe|
+      recipe.to == self
+    end.from
   end
 end
