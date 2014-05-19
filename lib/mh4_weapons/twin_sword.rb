@@ -1,4 +1,6 @@
-class MH4Weapons::TwinSword < MH4Weapons::Base
+class MH4Weapons::TwinSword < MH4Weapons::Weapon
+  self.filepath = "twin_swords.yml"
+
   attr_reader :name
 
   def initialize name, value
@@ -36,11 +38,5 @@ class MH4Weapons::TwinSword < MH4Weapons::Base
 
   def deriving_to
     recipes_deriving_to.map(&:to)
-  end
-
-  private
-
-  def collection
-    MH4Weapons.twin_swords
   end
 end
