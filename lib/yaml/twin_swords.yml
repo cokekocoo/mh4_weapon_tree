@@ -21,7 +21,6 @@
   white_length:  0
   strike_ratio:  0
   slots_count:   0
-  from:          ツインダガー
 
 デュエルツインダガー:
   rarity:        1
@@ -34,7 +33,6 @@
   white_length:  0
   strike_ratio:  0
   slots_count:   0
-  from:          ツインダガー改
 
 インセクトオーダー:
   rarity:        1
@@ -47,7 +45,6 @@
   white_length:  0
   strike_ratio:  0
   slots_count:   0
-  from:          デュエルツインダガー
 
 インセクトオーダー改:
   rarity:        1
@@ -60,7 +57,6 @@
   white_length:  0
   strike_ratio:  0
   slots_count:   0
-  from:          インセクトオーダー
 
 インセクトスライサー:
   rarity:        1
@@ -73,7 +69,6 @@
   white_length:  0
   strike_ratio:  0
   slots_count:   0
-  from:          インセクトオーダー改
 
 インセクトアラート:
   rarity:        1
@@ -86,7 +81,6 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
-  from:          インセクトスライサー
 
 ボーンシックル:
   rarity:        1
@@ -111,7 +105,6 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
-  from:          ボーンシックル
 
 ヘリカルトルクル:
   rarity:        1
@@ -124,7 +117,6 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
-  from:          ボーンシックル改
 
 スノウツインズ:
   rarity:        1
@@ -137,7 +129,6 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
-  from:          ボーンシックル改
 
 ツインチェーンソー:
   rarity:        1
@@ -150,7 +141,6 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
-  from:          ボーンシックル改
 
 王双刃ハタタカミ:
   rarity:        1
@@ -163,7 +153,6 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
-  from:          ツインチェーンソー
 
 王牙双刃【土雷】:
   rarity:        1
@@ -176,7 +165,6 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
-  from:          王双刃ハタタカミ
 
 雷双刃ツインクルス:
   rarity:        1
@@ -189,7 +177,6 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
-  from:          王牙双刃【土雷】
 
 獄双刃リュウソウ:
   rarity:        1
@@ -202,4 +189,3 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
-  from:          王牙双刃【土雷】

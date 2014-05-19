@@ -1,12 +1,4 @@
 class MH4Weapons::Base
-  def derived_from
-    collection.find{ |weapon| weapon.name == @options["from"] }
-  end
-
-  def deriving_to
-    collection.select{ |weapon| weapon.derived_from == self }
-  end
-
   def ancestors
     if derived_from
       [self] + derived_from.ancestors
