@@ -2,6 +2,6 @@ class MH4Weapons::Recipe
   include MH4Weapons
 
   def self.all
-    TwinSwordRecipe.all + []
+    Recipes::TwinSword.all + []
   end
 end

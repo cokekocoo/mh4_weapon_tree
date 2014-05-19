@@ -1,4 +1,4 @@
-class MH4Weapons::TwinSwordRecipe < MH4Weapons::Base
+class MH4Weapons::Recipes::TwinSword < MH4Weapons::Base
   self.filepath = "twin_sword_recipes.yml"
 
   attr_accessor :from, :to, :items
