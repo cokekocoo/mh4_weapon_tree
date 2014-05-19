@@ -1,15 +1,20 @@
 class MH4Weapons::TwinSword < MH4Weapons::Weapon
   self.filepath = "twin_swords.yml"
 
-  attr_reader :name
+  attr_reader :name, :attrs
 
   def initialize name, value
     @name = name
     @options = value
+    @attrs = value["attrs"].nil? ? [] : Attr.parse(value["attrs"])
   end
 
   def power
     @options["power"]
+  end
+
+  def strike_ratio
+    @options["strike_ratio"]
   end
 
   def slots_count

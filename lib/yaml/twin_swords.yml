@@ -153,6 +153,8 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
+  attrs:
+    雷: 80
 
 王双刃ハタタカミ:
   rarity:        1
@@ -165,6 +167,8 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
+  attrs:
+    雷: 140
 
 王牙双刃【土雷】:
   rarity:        1
@@ -177,6 +181,8 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
+  attrs:
+    雷: 180
 
 雷双刃ツインクルス:
   rarity:        1
@@ -189,6 +195,8 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
+  attrs:
+    雷: 240
 
 獄双刃リュウソウ:
   rarity:        1
@@ -201,3 +209,6 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
+  attrs:
+    雷: 300
+    龍: 280
