@@ -15,7 +15,7 @@
           = twin_sword.name
         .labels
           .label.label-default 攻撃力: #{twin_sword.power}
-          .label.label-default 火: #{twin_sword.power}
-          .label.label-default 麻痺: #{twin_sword.power}
+          - twin_sword.attrs.each do |a|
+            .label.label-warning #{a.name}: #{a.value}
           .label.label-default 会心率: #{twin_sword.power}
         = render partial: "sharpness_guage/sword", object: twin_sword

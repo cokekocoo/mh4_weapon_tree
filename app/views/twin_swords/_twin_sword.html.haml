@@ -5,14 +5,14 @@
     %table.table
       %tr
         %th 攻撃力
-        %th 火
-        %th 雷
+        - twin_sword.attrs.each do |a|
+          %th= a.name
         %th 会心率
       %tr
-        %td 89
-        %td 89
-        %td 89
-        %td 89
+        %td= twin_sword.power
+        - twin_sword.attrs.each do |a|
+          %td= a.value
+        %td= twin_sword.strike_ratio
 
     #sharpness
       .heading
