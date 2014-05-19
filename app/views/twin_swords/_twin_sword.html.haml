@@ -25,19 +25,8 @@
       派生元がありません
     - else
       %h4 #{link_to_twin_sword(twin_sword.derived_from)}からの強化素材
-      - twin_sword.recipe_derived_from.items.each do |requirement|
-        .panel.panel-default
-          .panel-heading
-            = requirement.name
-            %span.badge= requirement.quantity
-          / .panel-collapse.collapse.in
-          /   .panel-body
-          /     上位リオレウス剥ぎ取り 5%
+      %ul.list-group= render partial: "requirements/requirement", collection: twin_sword.recipe_derived_from.items
   .panel-body
     - twin_sword.recipes_deriving_to.each do |recipe|
       %h4 #{link_to_twin_sword(recipe.to)}への強化素材
-      - recipe.items.each do |requirement|
-        .panel.panel-default
-          .panel-heading
-            = requirement.name
-            %span.badge= requirement.quantity
+      %ul.list-group= render partial: "requirements/requirement", collection: recipe.items
