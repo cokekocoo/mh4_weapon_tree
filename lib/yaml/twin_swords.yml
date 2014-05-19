@@ -106,6 +106,18 @@
   strike_ratio:  0
   slots_count:   0
 
+ツイストルクル:
+  rarity:        1
+  power:         1
+  red_length:    4
+  orange_length: 11
+  yello_length:  11
+  green_length:  3
+  blue_length:   15
+  white_length:  2
+  strike_ratio:  0
+  slots_count:   0
+
 ヘリカルトルクル:
   rarity:        1
   power:         1
