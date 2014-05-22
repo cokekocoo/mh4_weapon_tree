@@ -886,3 +886,301 @@ THEアポストル:
   attrs:
     雷: 300
     龍: 280
+
+ガノカットラス:
+  rarity:        2
+  power:         154
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:   
+	水: 120   
+
+ガノスマチェーテ:
+  rarity:        4
+  power:         182
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:   
+	水: 200
+
+スラスヴェルデン:
+  rarity:        5
+  power:         196
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   1
+  attrs:   
+	水: 250
+	睡眠: 180
+
+ヴァッサーヴェルデン:
+  rarity:        6
+  power:         210
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   1
+  attrs:   
+	水: 320
+	睡眠: 220
+
+食いしん坊セット:
+  rarity:        3
+  power:         126
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   2
+  attrs:   
+
+シエロツール:
+  rarity:        5
+  power:         168
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   3
+  attrs:   
+	(火): 400
+
+アイルー君メラルー君:
+  rarity:        4
+  power:         112
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   2
+  attrs:   
+	麻痺: 150
+	
+アイルー様メラルー様:
+  rarity:        5
+  power:         126
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   3
+  attrs:   
+	麻痺: 200
+
+メルトウォーリア:
+  rarity:        5
+  power:         266
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  -20
+  slots_count:   1
+  attrs:   
+	火: 260  
+	毒: 150
+
+メルトブレイヴァー:
+  rarity:        6
+  power:         280
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  -15
+  slots_count:   1
+  attrs:   
+	火: 320
+	毒: 170
+
+憤怒の双刃:
+  rarity:        4
+  power:         224
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  5
+  slots_count:   0
+  attrs:   
+	(龍): 100   
+
+ラースプレデター:
+  rarity:        6
+  power:         238
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  5
+  slots_count:   0
+  attrs:   
+	(龍): 150   
+
+業双刃ベガモラルタ:
+  rarity:        7
+  power:         252
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  5
+  slots_count:   0
+  attrs:   
+	(龍): 200   
+
+双龍剣:
+  rarity:        4
+  power:         182
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   1
+  attrs:   
+	龍: 220  
+
+双龍剣【極】:
+  rarity:        6
+  power:         224
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   2
+  attrs:   
+	龍: 280
+
+双龍剣【極衝】:
+  rarity:        7
+  power:         238
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   3
+  attrs:   
+	龍: 320   
+
+凄く風化した双剣:
+  rarity:        5
+  power:         98
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  -30
+  slots_count:   0
+  attrs:    
+
+風化した双剣:
+  rarity:        5
+  power:         112
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  -20
+  slots_count:   0
+  attrs:   
+
+封龍剣【超絶一門】:
+  rarity:        6
+  power:         126
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   2
+  attrs:   
+	龍: 420   
+
+ツインネイル:
+  rarity:        6
+  power:         196
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  5
+  slots_count:   1
+  attrs:   
+	氷: 400
+	爆破: 160   
+
+氷炎ヴィルマフレア:
+  rarity:        7
+  power:         210
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  10
+  slots_count:   1
+  attrs:   
+	氷: 450
+	爆破: 180 
+
