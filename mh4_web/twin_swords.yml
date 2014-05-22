@@ -318,6 +318,148 @@
   attrs:    
    水: 200
    
+ジャギットショテル:
+  rarity:        1
+  power:         126
+  red_length:    8
+  orange_length: 5
+  yello_length:  7
+  green_length:  5
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+   
+リーデルショテル:
+  rarity:        2
+  power:         154
+  red_length:    7
+  orange_length: 15
+  yello_length:  7
+  green_length:  7
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+   
+クロウofリッパー:
+  rarity:        3
+  power:         168
+  red_length:    24
+  orange_length: 1
+  yello_length:  3
+  green_length:  8
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  10
+  slots_count:   0
+  attrs:      
+	龍: 100
+	
+クロウofハンガー:
+  rarity:        4
+  power:         168
+  red_length:    23
+  orange_length: 2
+  yello_length:  6
+  green_length:  10
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  20
+  slots_count:   0
+  attrs:      
+	龍: 140
+	
+クロウofキャリアー:
+  rarity:        5
+  power:         196
+  red_length:    21
+  orange_length: 2
+  yello_length:  6
+  green_length:  10
+  blue_length:   2
+  white_length:  0
+  strike_ratio:  20
+  slots_count:   0
+  attrs:      
+  	龍: 180
+
+THEアポストル:
+  rarity:        7
+  power:         224
+  red_length:    22
+  orange_length: 16
+  yello_length:  20
+  green_length:  10
+  blue_length:   12
+  white_length:  8
+  strike_ratio:  25
+  slots_count:   1
+  attrs:      
+	龍: 200
+
+ジョーズクリーパー:
+  rarity:        2
+  power:         168
+  red_length:    22
+  orange_length: 2
+  yello_length:  7
+  green_length:  4
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	氷: 80
+	水: 40
+
+ジョーズクリーパー改:
+  rarity:        3
+  power:         182
+  red_length:    22
+  orange_length: 1
+  yello_length:  4
+  green_length: 8 
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	氷: 120
+	水: 80
+	
+クールクリーパー:
+  rarity:        4
+  power:         196
+  red_length:    11
+  orange_length: 13
+  yello_length:  6
+  green_length:  7
+  blue_length:   4
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	氷: 180
+	水: 140
+	
+フローズンクリーパー:
+  rarity:        6
+  power:         210
+  red_length:    6
+  orange_length: 8
+  yello_length:  40
+  green_length:  18
+  blue_length:   10
+  white_length:  6
+  strike_ratio:  15
+  slots_count:   0
+  attrs:      
+	氷: 260
+	水: 220
+  
 ボーンシックル:
   rarity:        1
   power:         112
@@ -341,52 +483,348 @@
   white_length:  2
   strike_ratio:  0
   slots_count:   0
+  
+チーフシックル:
+  rarity:        1
+  power:         140
+  red_length:    6
+  orange_length: 4
+  yello_length:  12
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+
+デュアルタバルジン:
+  rarity:        2
+  power:         140
+  red_length:    9
+  orange_length: 11
+  yello_length:  7
+  green_length:  1
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	毒: 100
+	
+デュアルタバルジン改:
+  rarity:        2
+  power:         154
+  red_length:    7
+  orange_length: 5
+  yello_length:  14
+  green_length:  2
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	毒: 130
+	
+ツヴァイタバルジン:
+  rarity:        3
+  power:         168
+  red_length:    2
+  orange_length: 2
+  yello_length:  20
+  green_length:  4
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	毒: 180
+	
+フェイタルポイズン:
+  rarity:        4
+  power:         196
+  red_length:    7
+  orange_length: 5
+  yello_length:  14
+  green_length:  9
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	毒: 200
+
+モータルポイズン:
+  rarity:        6
+  power:         224
+  red_length:    14
+  orange_length: 8
+  yello_length:  24
+  green_length:  22
+  blue_length:   8
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	毒: 280
+	
+双剣オオナズチ:
+  rarity:        7
+  power:         238
+  red_length:    14
+  orange_length: 8
+  yello_length:  24
+  green_length:  20
+  blue_length:   16
+  white_length:  6
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	毒: 350
+	
+ツインフレイム:
+  rarity:        3
+  power:         182
+  red_length:    9
+  orange_length: 5
+  yello_length:  9
+  green_length:  5
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+
+ツインハイフレイム:
+  rarity:        4
+  power:         196
+  red_length:    11
+  orange_length: 8
+  yello_length:  10
+  green_length:  5
+  blue_length:   1
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	火: 120
+	
+双剣リュウノツガイ:
+  rarity:        5
+  power:         210
+  red_length:    15
+  orange_length: 12
+  yello_length:  6
+  green_length:  6
+  blue_length:   2
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	火: 170
+	
+ゲキリュウノツガイ:
+  rarity:        7
+  power:         268
+  red_length:    22
+  orange_length: 22
+  yello_length:  16
+  green_length:  10
+  blue_length:   14
+  white_length:  4
+  strike_ratio:  0
+  slots_count:   0
+  attrs:      
+	火: 200
+	
+ピンクボンボン:
+  rarity:        2
+  power:         182
+  red_length:    6
+  orange_length: 4
+  yello_length:  5
+  green_length:  7
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  -25
+  slots_count:  2
+  attrs:      
+
+ファンキーボンボン:
+  rarity:        3
+  power:         196
+  red_length:    7
+  orange_length: 4
+  yello_length:  5
+  green_length:  14
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  -20
+  slots_count:   2
+  attrs:      
+
+ジャングルボンボン:
+  rarity:        4
+  power:         210
+  red_length:    22
+  orange_length: 1
+  yello_length:  3
+  green_length:  14
+  blue_length:   1
+  white_length:  0
+  strike_ratio:  -15
+  slots_count:   3
+  attrs:      
+	(睡眠): 100
+
+エバーグリーン:
+  rarity:        5
+  power:         238
+  red_length:    10
+  orange_length: 12
+  yello_length:  22
+  green_length:  36
+  blue_length:   7
+  white_length:  1
+  strike_ratio:  -10
+  slots_count:   3
+  attrs:      
+	(睡眠): 120
 
 ツイストルクル:
   rarity:        1
   power:         126
-  red_length:    4
-  orange_length: 11
-  yello_length:  11
-  green_length:  3
-  blue_length:   15
-  white_length:  2
+  red_length:    3
+  orange_length: 7
+  yello_length:  12
+  green_length:  0
+  blue_length:   0
+  white_length:  0
   strike_ratio:  -5
   slots_count:   0
-
+  attrs:
+	水: 80
+	
 ヘリカルトルクル:
   rarity:        2
   power:         154
-  red_length:    4
-  orange_length: 11
-  yello_length:  11
-  green_length:  3
-  blue_length:   15
-  white_length:  2
+  red_length:    5
+  orange_length: 4
+  yello_length:  15
+  green_length:  5
+  blue_length:   0
+  white_length:  0
   strike_ratio:  -10
   slots_count:   1
+  attrs:
+	水: 120
+	
+エンドミルトルク:
+  rarity:        3
+  power:         168
+  red_length:    14
+  orange_length: 2
+  yello_length:  5
+  green_length:  8
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   1
+  attrs:      
+	水: 150
+
+ラセンエッジ:
+  rarity:        5
+  power:         182
+  red_length:    13
+  orange_length: 1
+  yello_length:  6
+  green_length:  1
+  blue_length:   8
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   2
+  attrs:      
+	水: 210
+
+旋壊ジャイロエッジ:
+  rarity:        6
+  power:         210
+  red_length:    10
+  orange_length: 36
+  yello_length:  10
+  green_length:  4
+  blue_length:   27
+  white_length:  1
+  strike_ratio:  0
+  slots_count:   2
+  attrs:      
+	水: 260
 
 スノウツインズ:
   rarity:        2
   power:         154
-  red_length:    4
-  orange_length: 11
-  yello_length:  11
-  green_length:  3
-  blue_length:   15
-  white_length:  2
+  red_length:    10
+  orange_length: 5
+  yello_length:  9
+  green_length:  5
+  blue_length:   0
+  white_length:  0
   strike_ratio:  0
   slots_count:   1
+  attrs:
+	氷: 100
+
+スノウジェミニ:
+  rarity:        3
+  power:         168
+  red_length:    9
+  orange_length: 13
+  yello_length:  7
+  green_length:  8
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   2
+  attrs:      
+	氷: 120
+
+ウルクスアンドゥ:
+  rarity:        5
+  power:         196
+  red_length:    10
+  orange_length: 5
+  yello_length:  10
+  green_length:  10
+  blue_length:   2
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   2
+  attrs:      
+	氷: 240
+
+ウルクスアルマス:
+  rarity:        6
+  power:         210
+  red_length:    10
+  orange_length: 36
+  yello_length:  10
+  green_length:  4
+  blue_length:   20
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   3
+  attrs:      
+	氷: 240
 
 ツインチェーンソー:
   rarity:        2
   power:         140
-  red_length:    4
-  orange_length: 11
-  yello_length:  11
+  red_length:    6
+  orange_length: 6
+  yello_length:  14
   green_length:  3
-  blue_length:   15
-  white_length:  2
+  blue_length:   0
+  white_length:  0
   strike_ratio:  0
   slots_count:   0
   attrs:
@@ -395,12 +833,12 @@
 王双刃ハタタカミ:
   rarity:        3
   power:         196
-  red_length:    4
-  orange_length: 11
-  yello_length:  11
-  green_length:  3
-  blue_length:   15
-  white_length:  2
+  red_length:    7
+  orange_length: 3
+  yello_length:  12
+  green_length:  6
+  blue_length:   0
+  white_length:  0
   strike_ratio:  0
   slots_count:   0
   attrs:
@@ -409,12 +847,12 @@
 王牙双刃【土雷】:
   rarity:        5
   power:         210
-  red_length:    4
-  orange_length: 11
-  yello_length:  11
-  green_length:  3
-  blue_length:   15
-  white_length:  2
+  red_length:    2
+  orange_length: 6
+  yello_length:  29
+  green_length:  8
+  blue_length:   2
+  white_length:  0
   strike_ratio:  0
   slots_count:   0
   attrs:
@@ -423,12 +861,12 @@
 雷双刃ツインクルス:
   rarity:        6
   power:         238
-  red_length:    4
-  orange_length: 11
-  yello_length:  11
-  green_length:  3
-  blue_length:   15
-  white_length:  2
+  red_length:    8
+  orange_length: 40
+  yello_length:  8
+  green_length:  4
+  blue_length:   29
+  white_length:  0
   strike_ratio:  10
   slots_count:   0
   attrs:
@@ -442,8 +880,8 @@
   yello_length:  11
   green_length:  3
   blue_length:   15
-  white_length:  2
-  strike_ratio:  10
+  white_length:  0
+  strike_ratio:  0
   slots_count:   1
   attrs:
     雷: 300
