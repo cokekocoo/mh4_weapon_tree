@@ -1,0 +1,2311 @@
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+ツインダガー
+    │
+    │
+red_length: 3
+orange_length: 7
+yello_length: 12
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+└ツインダガー改
+　│
+red_length: 1
+orange_length: 6
+yello_length: 15
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 4
+orange_length: 7
+yello_length: 9
+green_length: 2
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││
+      　│├
+        デュアルトマホーク
+        　│││
+red_length: 6
+orange_length: 5
+yello_length: 6
+green_length: 5
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│││
+      　││├
+        デュアルトマホーク改
+        　││││
+red_length: 2
+orange_length: 2
+yello_length: 20
+green_length: 8
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││││
+      　│││├
+        デュアルハーケン
+        　│││││
+red_length: 8
+orange_length: 8
+yello_length: 5
+green_length: 11
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 2
+orange_length: 2
+yello_length: 21
+green_length: 13
+blue_length: 1
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││││　│
+      　││││　└
+      サイクロン ※
+      　││││　
+　││││　
+red_length: 14
+orange_length: 14
+yello_length: 10
+green_length: 36
+blue_length: 9
+white_length: 1
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 10
+orange_length: 1
+yello_length: 6
+green_length: 1
+blue_length: 3
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│││　│
+      　│││　└
+        轟爪【虎血】
+        　│││　　│
+red_length: 4
+orange_length: 20
+yello_length: 4
+green_length: 1
+blue_length: 6
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│││　　│
+      　│││　　└
+        カーサススライサー
+        　│││　　　│
+red_length: 12
+orange_length: 1
+yello_length: 5
+green_length: 1
+blue_length: 11
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│││　　　│
+      　│││　　　└
+        衛爪【虎豹】 ※
+        　│││　
+　│││　
+red_length: 24
+orange_length: 2
+yello_length: 10
+green_length: 2
+blue_length: 40
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│││
+      　││└
+        クーラーダガー
+        　││　　│
+red_length: 5
+orange_length: 3
+yello_length: 17
+green_length: 5
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││　　│
+      　││　　└
+        クーラーダガー改
+        　││　　　 │
+red_length: 7
+orange_length: 5
+yello_length: 13
+green_length: 6
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 15
+orange_length: 2
+yello_length: 5
+green_length: 9
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││　　　　 │
+      　││　　　　 └
+      フローズン＝デス ※
+      　││　　　　 
+　││　　　　 
+red_length: 12
+orange_length: 16
+yello_length: 20
+green_length: 24
+blue_length: 6
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││
+      　│└
+        インセクトオーダー
+        　│　 │
+red_length: 4
+orange_length: 18
+yello_length: 4
+green_length: 2
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 │
+      　│　 ├
+        インセクトオーダー改
+        　│　 ││
+red_length: 23
+orange_length: 7
+yello_length: 1
+green_length: 2
+blue_length: 1
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 ││
+      　│　 │└
+        インセクトスライサー
+        　│　 │　│
+red_length: 3
+orange_length: 9
+yello_length: 9
+green_length: 2
+blue_length: 7
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 │　│
+      　│　 │　└
+        インセクトアラート ※
+        　│　 │　
+　│　 │　
+red_length: 6
+orange_length: 18
+yello_length: 18
+green_length: 4
+blue_length: 24
+white_length: 8
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 9
+orange_length: 2
+yello_length: 4
+green_length: 9
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　　　 │
+      　│　　　 └
+        ホーリーセーバー
+        　│　　　　 　│
+red_length: 7
+orange_length: 7
+yello_length: 5
+green_length: 16
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　　　　 　│
+      　│　　　　 　└
+        ギルドナイトセーバー
+        　│　　　　 　　│
+red_length: 4
+orange_length: 5
+yello_length: 11
+green_length: 21
+blue_length: 1
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　　　　 　　│
+      　│　　　　 　　└
+        マスターセーバー ※
+        　│　　　　 　　
+　│　　　　 　　
+red_length: 12
+orange_length: 10
+yello_length: 12
+green_length: 38
+blue_length: 12
+white_length: 6
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 8
+orange_length: 5
+yello_length: 7
+green_length: 5
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　 │
+      　　 └
+        リーデルショテル
+        　　　　│
+red_length: 7
+orange_length: 15
+yello_length: 7
+green_length: 7
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 24
+orange_length: 1
+yello_length: 3
+green_length: 8
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　││
+      　　　　│└
+        クロウofハンガー
+        　　　　│　│　
+red_length: 23
+orange_length: 2
+yello_length: 6
+green_length: 10
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　│　│
+      　　　　│　└
+        クロウofキャリアー
+        　　　　│　　│
+red_length: 21
+orange_length: 2
+yello_length: 6
+green_length: 10
+blue_length: 2
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　│　　│
+      　　　　│　　└
+        THEアポストル ※
+        　　　　│　
+　　　　│　
+red_length: 22
+orange_length: 16
+yello_length: 20
+green_length: 10
+blue_length: 12
+white_length: 8
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　│
+      　　　　└
+        ジョーズクリ－パー
+        　　　　　 │
+red_length: 22
+orange_length: 2
+yello_length: 7
+green_length: 4
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　　 │
+      　　　　　 └
+        ジョーズクリ－パー改
+        　　　　　 　 │
+red_length: 22
+orange_length: 1
+yello_length: 4
+green_length: 8
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　　 　 │
+      　　　　　 　 └
+        クールクリ－パー
+        　　　　　 　 　│
+red_length: 11
+orange_length: 13
+yello_length: 6
+green_length: 7
+blue_length: 4
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　　 　 　│
+      　　　　　 　 　└
+        フローズンクリ－パー ※
+        
+        　　　　　 　 　
+red_length: 6
+orange_length: 8
+yello_length: 40
+green_length: 18
+blue_length: 10
+white_length: 6
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+ボーンシックル
+      │
+      │
+red_length: 6
+orange_length: 8
+yello_length: 8
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+└ボーンシックル改
+　│
+red_length: 9
+orange_length: 5
+yello_length: 8
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│
+      　├チーフシックル
+      　││
+red_length: 6
+orange_length: 4
+yello_length: 12
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 9
+orange_length: 11
+yello_length: 7
+green_length: 1
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 │
+      　│　 ├
+        デュアルタバルジン改
+        　│　 ││
+red_length: 7
+orange_length: 5
+yello_length: 14
+green_length: 2
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 ││
+      　│　 │├
+        ツヴァイタバルジン
+        　│　 │││
+red_length: 2
+orange_length: 2
+yello_length: 20
+green_length: 4
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 │││
+      　│　 ││└
+        フェイタルポイズン
+        　│　 ││　│
+red_length: 7
+orange_length: 5
+yello_length: 14
+green_length: 9
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 ││　│
+      　│　 ││　└
+        モータルポイズン 
+        　│　 ││　　│
+red_length: 14
+orange_length: 8
+yello_length: 24
+green_length: 22
+blue_length: 8
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 ││　　│
+      　│　 ││　　└
+        双剣オオナズチ ※
+        　│　 ││
+　│　 ││
+red_length: 14
+orange_length: 8
+yello_length: 24
+green_length: 20
+blue_length: 16
+white_length: 6
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 9
+orange_length: 5
+yello_length: 9
+green_length: 5
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 │　│
+      　│　 │　└
+      ツインハイフレイム
+      　│　 │　　│
+red_length: 11
+orange_length: 8
+yello_length: 10
+green_length: 5
+blue_length: 1
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 │　　│
+      　│　 │　　└
+      双剣リュウノツガイ
+      　│　 │　　　│
+red_length: 15
+orange_length: 12
+yello_length: 6
+green_length: 6
+blue_length: 2
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 │　　　│
+      　│　 │　　　└
+      ゲキリュウノツガイ ※
+      　│　 │　
+　│　 │　
+red_length: 22
+orange_length: 22
+yello_length: 16
+green_length: 10
+blue_length: 14
+white_length: 4
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 │
+      　│　 └
+        ピンクボンボン
+        　│　 　 │
+red_length: 6
+orange_length: 4
+yello_length: 5
+green_length: 7
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 　 │
+      　│　 　 └
+        ファンキーボンボン
+        　│　　　　│
+red_length: 7
+orange_length: 4
+yello_length: 5
+green_length: 14
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 　　 │
+      　│　 　　 └
+        ジャングルボンボン
+        　│　　　　　│
+red_length: 22
+orange_length: 1
+yello_length: 3
+green_length: 14
+blue_length: 1
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　　 　　 │
+      　│　 　　　 └
+        エバーグリーン ※
+        　│　　　 
+　│　　　 
+red_length: 10
+orange_length: 12
+yello_length: 22
+green_length: 36
+blue_length: 7
+white_length: 1
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│
+      　├ツイストルクル
+      　││
+red_length: 3
+orange_length: 7
+yello_length: 12
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││
+      　│├
+        ヘリカルトルクル
+        　│││
+red_length: 5
+orange_length: 4
+yello_length: 15
+green_length: 5
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 14
+orange_length: 2
+yello_length: 5
+green_length: 8
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││　│
+      　││　└
+      ラセンエッジ
+      　││　　│
+red_length: 13
+orange_length: 1
+yello_length: 6
+green_length: 1
+blue_length: 8
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││　　│
+      　││　　└
+      旋壊ジャイロエッジ ※
+      　││
+　││
+red_length: 10
+orange_length: 36
+yello_length: 10
+green_length: 4
+blue_length: 27
+white_length: 1
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 10
+orange_length: 5
+yello_length: 9
+green_length: 5
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│││
+      　││└
+        スノウジェミニ
+        　││　│
+red_length: 9
+orange_length: 13
+yello_length: 7
+green_length: 8
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││　│
+      　││　└
+        ウルクスアンドゥ
+        　││　　│
+red_length: 10
+orange_length: 5
+yello_length: 10
+green_length: 10
+blue_length: 2
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　││　　│
+      　││　　└
+        ウルクスアルマス ※
+        　││　
+　││　
+red_length: 10
+orange_length: 36
+yello_length: 10
+green_length: 4
+blue_length: 20
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 6
+orange_length: 6
+yello_length: 14
+green_length: 3
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 │
+      　│　 └
+        王双刃ハタタカミ
+        　│　 　│
+red_length: 7
+orange_length: 3
+yello_length: 12
+green_length: 6
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　 　│
+      　│　 　└
+        王牙双刃【土雷】
+        　│　　　　│　　
+red_length: 2
+orange_length: 6
+yello_length: 20
+green_length: 8
+blue_length: 2
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　　　　│
+      　│　　　　├
+        雷双剣ツインクルス ※
+        　│　　　　│
+red_length: 8
+orange_length: 40
+yello_length: 8
+green_length: 4
+blue_length: 29
+white_length: 1
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│　　　　│
+      　│　　　　└
+        獄双刃リュウソウ ※
+        　│　　
+red_length: 12
+orange_length: 10
+yello_length: 30
+green_length: 24
+blue_length: 8
+white_length: 6
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 8
+orange_length: 8
+yello_length: 5
+green_length: 1
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　 │
+      　　 ├
+        ハイランポスクロウズ
+        　　 ││
+red_length: 2
+orange_length: 2
+yello_length: 21
+green_length: 3
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　 ││
+      　　 │└
+        テッセン【烏】
+        　　 │　│ 
+red_length: 1
+orange_length: 2
+yello_length: 4
+green_length: 21
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　 │　│
+      　　 │　└
+        テッセン【狼】
+        　　 │　　│
+red_length: 1
+orange_length: 2
+yello_length: 4
+green_length: 28
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　 │　　│
+      　　 │　　└
+        テッセン【凶】 ※
+        　　 │　 
+red_length: 2
+orange_length: 4
+yello_length: 8
+green_length: 56
+blue_length: 15
+white_length: 3
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　 │
+      　　 └
+        クックツインズ
+        　　 　│
+red_length: 12
+orange_length: 9
+yello_length: 11
+green_length: 1
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 9
+orange_length: 8
+yello_length: 5
+green_length: 11
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　　│
+      　　　　　├
+      双刃イャンクック ※
+      　　　　　│
+red_length: 10
+orange_length: 10
+yello_length: 32
+green_length: 27
+blue_length: 3
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　　│
+　　　　　└
+      ディオスライサー
+　　　　　　│
+red_length: 9
+orange_length: 15
+yello_length: 9
+green_length: 4
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　　　│
+　　　　　　└
+      ディオスライサー改
+　　　　　　　│
+red_length: 11
+orange_length: 9
+yello_length: 11
+green_length: 5
+blue_length: 1
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　　　　　　│
+　　　　　　　└
+      爆砕の双刃 ※
+　　　　　
+red_length: 20
+orange_length: 10
+yello_length: 28
+green_length: 14
+blue_length: 11
+white_length: 5
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+食いしん坊セット
+      │
+      │
+red_length: 8
+orange_length: 2
+yello_length: 4
+green_length: 9
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+      └シエロツール ※
+red_length: 2
+orange_length: 4
+yello_length: 14
+green_length: 32
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+アイルー君メラルー君
+      │
+      │
+red_length: 7
+orange_length: 5
+yello_length: 7
+green_length: 16
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+      └アイルー様メラルー様 ※
+red_length: 14
+orange_length: 10
+yello_length: 14
+green_length: 32
+blue_length: 6
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+ガノカットラス
+      │
+      │
+red_length: 22
+orange_length: 1
+yello_length: 3
+green_length: 2
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+      └ガノマスマチェーテ
+      　│
+red_length: 22
+orange_length: 1
+yello_length: 3
+green_length: 8
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│
+      　└スラスヴェルデン
+      　　│
+　　│
+red_length: 21
+orange_length: 2
+yello_length: 7
+green_length: 11
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　│
+      　　└ ヴァッサーヴェルデン      
+    
+red_length: 12
+orange_length: 12
+yello_length: 28
+green_length: 20
+blue_length: 11
+white_length: 5
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+メルトウォーリア
+      │
+      │
+│
+red_length: 6
+orange_length: 7
+yello_length: 10
+green_length: 13
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+      └　メルトブレイヴァー ※            
+red_length: 12
+orange_length: 8
+yello_length: 26
+green_length: 24
+blue_length: 8
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+双龍剣
+│
+│
+red_length: 7
+orange_length: 8
+yello_length: 14
+green_length: 7
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+      └ 双龍剣【極】
+      　│ 
+red_length: 5
+orange_length: 7
+yello_length: 10
+green_length: 13
+blue_length: 1
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│
+      　└ 双龍剣【極衛】 ※
+red_length: 2
+orange_length: 4
+yello_length: 14
+green_length: 40
+blue_length: 5
+white_length: 3
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+憤怒の双刃
+      │
+      │
+red_length: 10
+orange_length: 8
+yello_length: 10
+green_length: 5
+blue_length: 1
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+      └ラースプレデター
+      　│
+red_length: 3
+orange_length: 7
+yello_length: 21
+green_length: 8
+blue_length: 1
+white_length: 1
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│
+      　└業双刃ベガモラルタ ※
+red_length: 16
+orange_length: 28
+yello_length: 18
+green_length: 10
+blue_length: 6
+white_length: 8
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+凄く風化した双剣
+      │
+      │
+red_length: 21
+orange_length: 2
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+      └風化した双剣
+      　│
+red_length: 18
+orange_length: 5
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│
+      　├封龍剣【超絶一門】 ※
+      　│ 
+red_length: 2
+orange_length: 6
+yello_length: 12
+green_length: 44
+blue_length: 6
+white_length: 12
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　│
+      　└ツインネイル      
+            　　│
+red_length: 3
+orange_length: 9
+yello_length: 9
+green_length: 2
+blue_length: 8
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+　　│
+      　　└ 氷炎剣ヴィルマフレア ※
+red_length: 6
+orange_length: 18
+yello_length: 18
+green_length: 4
+blue_length: 24
+white_length: 8
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+覇爪アムルカムトルム ※
+red_length: 10
+orange_length: 6
+yello_length: 30
+green_length: 16
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+黒棘を束ねし刃
+      │
+      │
+red_length: 7
+orange_length: 4
+yello_length: 5
+green_length: 19
+blue_length: 6
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+      └森羅万象を裂くグルカ ※
+red_length: 14
+orange_length: 8
+yello_length: 10
+green_length: 38
+blue_length: 62
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+双龍刃【紅空闇夜】
+      │
+      │
+red_length: 14
+orange_length: 16
+yello_length: 26
+green_length: 20
+blue_length: 7
+white_length: 1
+white_length: 4
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+迅雷
+      │
+      │
+red_length: 3
+orange_length: 9
+yello_length: 9
+green_length: 2
+blue_length: 7
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+      └双雷剣キリン ※      
+red_length: 6
+orange_length: 16
+yello_length: 16
+green_length: 4
+blue_length: 26
+white_length: 22
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+祭囃子・叫雹ノ調 ※      
+red_length: 2
+orange_length: 4
+yello_length: 14
+green_length: 38
+blue_length: 6
+white_length: 24
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+海賊Jエッジ
+      │
+      │
+red_length: 10
+orange_length: 8
+yello_length: 10
+green_length: 5
+blue_length: 1
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+│
+      └ 大海賊Jエッジ ※
+red_length: 6
+orange_length: 16
+yello_length: 44
+green_length: 14
+blue_length: 2
+white_length: 8
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+紅蓮爆炎刃      
+red_length: 8
+orange_length: 40
+yello_length: 8
+green_length: 4
+blue_length: 29
+white_length: 1
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
+ギガントピストル      
+red_length: 6
+orange_length: 16
+yello_length: 42
+green_length: 14
+blue_length: 12
+white_length: 0
+white_length: 0
+---------------------------------------
+red_length: 0
+orange_length: 0
+yello_length: 0
+green_length: 0
+blue_length: 0
+white_length: 0
+white_length: 0
+---------------------------------------
