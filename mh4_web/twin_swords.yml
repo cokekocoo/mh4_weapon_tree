@@ -1182,5 +1182,160 @@ THEアポストル:
   slots_count:   1
   attrs:   
 	氷: 450
-	爆破: 180 
+	爆破: 180
+	 
+迅雷:
+  rarity:        4
+  power:         140
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   1
+  attrs:   
+	雷: 280  
 
+双雷剣キリン:
+  rarity:        7
+  power:         168
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   2
+  attrs:   
+	雷: 340 
+
+黒刺を束ねし刃:
+  rarity:        6
+  power:         294
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  -15
+  slots_count:   3
+  attrs:   
+	(麻痺): 60
+	
+森羅万象を裂くグルカ:
+  rarity:        7
+  power:         322
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  -15
+  slots_count:   3
+  attrs:   
+	(麻痺): 80
+
+覇爪アムルカムトルム:
+  rarity:        7
+  power:         322
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  30
+  slots_count:   0
+  attrs: 
+
+祭囃子・叫雹ノ調:
+  rarity:        7
+  power:         196
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   1
+  attrs: 
+	氷: 400
+	麻痺: 220
+
+双龍刃【紅空闇夜】:
+  rarity:        7
+  power:         224
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   3
+  attrs: 
+	龍: 280
+	爆破: 220
+
+海賊Jエッジ:
+  rarity:        4
+  power:         196
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs: 
+	(火): 100
+
+大海賊Jエッジ:
+  rarity:        6
+  power:         238
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  0
+  slots_count:   0
+  attrs: 
+	(火): 180
+
+ギガントピストル:
+  rarity:        7
+  power:         322
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  -30
+  slots_count:   1
+  attrs: 
+	(火): 120
+
+紅蓮爆炎刃:
+  rarity:        7
+  power:         210
+  red_length:    0
+  orange_length: 0
+  yello_length:  0
+  green_length:  0
+  blue_length:   0
+  white_length:  0
+  strike_ratio:  5
+  slots_count:   0
+  attrs: 
+	火: 180
+	爆破: 400
